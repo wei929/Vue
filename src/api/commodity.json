@@ -1,0 +1,378 @@
+{
+	"type": [
+		"美发工具类",
+		"形象品类",
+		"书籍培训类",
+		"数码产品类"
+	],
+	"brand": [
+		{
+			"id": "1",
+			"name": "欧莱雅",
+			"commodity": [
+				{
+					"name": "欧莱雅染发膏",
+					"price": "123",
+					"mallValue": "99",
+					"stock": "300",
+					"total": "800",
+					"type": [
+						"形象品类"
+					],
+					"images": [
+						"https://fjlyl.xyz/assets/hairDye/products%20(1).jpg"
+					],
+					"comments": {
+						"length": "3625"
+					},
+					"promotion": {
+						"startTime": "2018-4-7 10:00",
+						"endTime": "2018-10-7 12:30"
+					}
+				}, {
+					"name": "欧莱雅护发素60ml",
+					"price": "123",
+					"mallValue": "99",
+					"stock": "300",
+					"total": "800",
+					"type": [
+						"形象品类"
+					],
+					"images": [
+						"https://fjlyl.xyz/assets/hairDye/products%20(2).jpg"
+					],
+					"comments": {
+						"length": "3625"
+					},
+					"promotion": {
+						"startTime": "2018-5-1 10:00",
+						"endTime": "2018-10-7 12:30"
+					}
+				}
+			],
+			"coupon": [
+				{
+					"name": "欧莱雅优惠券",
+					"value": "100",
+					"requirement": "800",
+					"startDate": "2017-05-20",
+					"endDate": "2017-12-20"
+				}, {
+					"name": "欧莱雅优惠券",
+					"value": "10",
+					"requirement": "80",
+					"startDate": "2017-05-20",
+					"endDate": "2017-12-20"
+				}, {
+					"name": "欧莱雅优惠券",
+					"value": "50",
+					"requirement": "150",
+					"startDate": "2017-05-20",
+					"endDate": "2017-12-20"
+				}, {
+					"name": "欧莱雅优惠券",
+					"value": "30",
+					"requirement": "100",
+					"startDate": "2017-05-20",
+					"endDate": "2017-12-20"
+				}
+			]
+		}, {
+			"id": "2",
+			"name": "威娜",
+			"commodity": [
+				{
+					"name": "威娜染发膏",
+					"price": "63",
+					"mallValue": "199",
+					"stock": "300",
+					"total": "800",
+					"type": [
+						"书籍培训类"
+					],
+					"images": [
+						"https://fjlyl.xyz/assets/hairDye/products%20(3).jpg"
+					],
+					"comments": {
+						"length": "3625"
+					},
+					"promotion": {
+						"startTime": "2018-11-7 10:00",
+						"endTime": "2018-11-11 12:30"
+					}
+				}, {
+					"name": "洛黛诗香水头发护发精油干枯毛直卷发免洗护发素",
+					"price": "123",
+					"mallValue": "83",
+					"stock": "300",
+					"total": "800",
+					"type": [
+						"美发工具类"
+					],
+					"images": [
+						"https://fjlyl.xyz/assets/hairDye/products%20(4).jpg"
+					],
+					"comments": {
+						"length": "3625"
+					},
+					"promotion": {
+						"startTime": "2018-11-8 10:00",
+						"endTime": "2018-11-11 12:30"
+					}
+				}
+			],
+			"coupon": [
+				{
+					"name": "威娜优惠券",
+					"value": "12",
+					"requirement": "80",
+					"startDate": "2017-05-20",
+					"endDate": "2017-12-20"
+				}, {
+					"name": "威娜优惠券",
+					"value": "13",
+					"requirement": "80",
+					"startDate": "2017-05-20",
+					"endDate": "2017-12-20"
+				}
+			]
+		}, {
+			"id": "3",
+			"name": "施华蔻",
+			"commodity": [
+				{
+					"name": "施华蔻染发膏500ml",
+					"price": "123",
+					"mallValue": "99",
+					"stock": "300",
+					"total": "800",
+					"type": [
+						"美发工具类"
+					],
+					"images": [
+						"https://fjlyl.xyz/assets/hairDye/products%20(5).jpg"
+					],
+					"comments": {
+						"length": "3625"
+					},
+					"promotion": {
+						"startTime": "2018-5-17 10:00",
+						"endTime": "2018-5-17 12:30"
+					}
+				}, {
+					"name": "施华蔻护发素60ml",
+					"price": "123",
+					"mallValue": "99",
+					"stock": "300",
+					"total": "800",
+					"type": [
+						"数码产品类"
+					],
+					"images": [
+						"https://fjlyl.xyz/assets/hairDye/products%20(6).jpg"
+					],
+					"comments": {
+						"length": "3625"
+					},
+					"promotion": {
+						"startTime": "2018-5-7 10:00",
+						"endTime": "2018-12-7 12:30"
+					}
+				}
+			],
+			"coupon": [
+				{
+					"name": "施华蔻优惠券",
+					"value": "14",
+					"requirement": "80",
+					"startDate": "2017-05-20",
+					"endDate": "2017-12-20"
+				}, {
+					"name": "施华蔻优惠券",
+					"value": "15",
+					"requirement": "80",
+					"startDate": "2017-05-20",
+					"endDate": "2017-12-20"
+				}
+			]
+		}, {
+			"id": "4",
+			"name": "美奇丝",
+			"commodity": [
+				{
+					"name": "美奇丝染发膏60ml",
+					"price": "123",
+					"mallValue": "99",
+					"stock": "300",
+					"total": "800",
+					"type": [
+						"形象品类"
+					],
+					"images": [
+						"https://fjlyl.xyz/assets/hairDye/products%20(7).jpg"
+					],
+					"comments": {
+						"length": "3625"
+					},
+					"promotion": {
+						"startTime": "2018-5-7 10:00",
+						"endTime": "2018-5-7 12:30"
+					}
+				}, {
+					"name": "美奇丝护发素",
+					"price": "123",
+					"mallValue": "99",
+					"stock": "300",
+					"total": "800",
+					"type": [
+						"美发工具类"
+					],
+					"images": [
+						"https://fjlyl.xyz/assets/hairDye/products%20(8).jpg"
+					],
+					"comments": {
+						"length": "3625"
+					},
+					"promotion": {
+						"startTime": "2018-5-7 10:00",
+						"endTime": "2018-5-7 12:30"
+					}
+				}
+			],
+			"coupon": [
+				{
+					"name": "美奇丝优惠券",
+					"value": "111",
+					"requirement": "80",
+					"startDate": "2017-05-20",
+					"endDate": "2017-12-20"
+				}, {
+					"name": "美奇丝优惠券",
+					"value": "78",
+					"requirement": "80",
+					"startDate": "2018-05-20",
+					"endDate": "2018-12-20"
+				}
+			]
+		}, {
+			"id": "5",
+			"name": "卡诗",
+			"commodity": [
+				{
+					"name": "卡诗染发膏560ml",
+					"price": "123",
+					"mallValue": "99",
+					"stock": "300",
+					"total": "800",
+					"type": [
+						"形象品类"
+					],
+					"images": [
+						"https://fjlyl.xyz/assets/hairDye/products%20(9).jpg"
+					],
+					"comments": {
+						"length": "3625"
+					},
+					"promotion": {
+						"startTime": "2018-5-7 10:00",
+						"endTime": "2018-11-7 12:30"
+					}
+				}, {
+					"name": "卡诗护发素60ml",
+					"price": "123",
+					"mallValue": "99",
+					"stock": "300",
+					"total": "800",
+					"type": [
+						"美发工具类",
+						"形象品类"
+					],
+					"images": [
+						"https://fjlyl.xyz/assets/hairDye/products%20(10).jpg"
+					],
+					"comments": {
+						"length": "3625"
+					},
+					"promotion": {
+						"startTime": "2018-5-7 10:00",
+						"endTime": "2018-5-7 12:30"
+					}
+				}
+			],
+			"coupon": [
+				{
+					"name": "卡诗优惠券",
+					"value": "44",
+					"requirement": "80",
+					"startDate": "2017-05-20",
+					"endDate": "2017-12-20"
+				}, {
+					"name": "卡诗优惠券",
+					"value": "55",
+					"requirement": "80",
+					"startDate": "2019-05-20",
+					"endDate": "2019-12-20"
+				}
+			]
+		}, {
+			"id": "6",
+			"name": "沙宣",
+			"commodity": [
+				{
+					"name": "沙宣染发膏60ml",
+					"price": "123",
+					"mallValue": "99",
+					"stock": "300",
+					"total": "800",
+					"type": [
+						"形象品类"
+					],
+					"images": [
+						"https://fjlyl.xyz/assets/hairDye/products%20(11).jpg"
+					],
+					"comments": {
+						"length": "3625"
+					},
+					"promotion": {
+						"startTime": "2018-10-7 10:00",
+						"endTime": "2019-11-7 12:30"
+					}
+				}, {
+					"name": "沙宣焗油膏500ml",
+					"price": "123",
+					"mallValue": "99",
+					"stock": "300",
+					"total": "800",
+					"type": [
+						"美发工具类"
+					],
+					"images": [
+						"https://fjlyl.xyz/assets/hairDye/products%20(12).jpg"
+					],
+					"comments": {
+						"length": "3625"
+					},
+					"promotion": {
+						"startTime": "2018-10-17 9:00",
+						"endTime": "2018-10-17 12:30"
+					}
+				}
+			],
+			"coupon": [
+				{
+					"name": "沙宣优惠券",
+					"value": "10",
+					"requirement": "80",
+					"startDate": "2017-05-20",
+					"endDate": "2017-12-20"
+				}, {
+					"name": "沙宣优惠券",
+					"value": "30",
+					"requirement": "80",
+					"startDate": "2018-05-20",
+					"endDate": "2018-12-20"
+				}
+			]
+		}
+	]
+}

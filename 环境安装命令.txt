@@ -1,0 +1,1 @@
+npm i --save-dev webpack webpack-cli webpack-dev-server css-loader style-loader less-loader less html-webpack-plugin extract-text-webpack-plugin@next file-loader url-loader vue vue-loader vue-resource vue-router vue-template-compiler vuex jquery
